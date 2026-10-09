@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 48" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 46" width="100%" height="46">
   <defs>
-    <linearGradient id="sec-grad-focus" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="sec-focus" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#1c160c" />
       <stop offset="60%" stop-color="#0c0a07" />
       <stop offset="100%" stop-color="#070605" />
     </linearGradient>
   </defs>
-  <rect width="850" height="48" rx="6" fill="url(#sec-grad-focus)" />
-  <rect x="0.5" y="0.5" width="849" height="47" rx="5.5" fill="none" stroke="#382d1c" stroke-width="1" />
-  <path d="M 0 0 L 4 0 L 4 48 L 0 48 Z" fill="#f59e0b" />
-  <text x="22" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="16" font-weight="800" fill="#fbbf24" letter-spacing="0.3">
-    🔭  Current Focus & Research
+  <rect width="850" height="46" rx="6" fill="url(#sec-focus)" />
+  <rect x="0.5" y="0.5" width="849" height="45" rx="5.5" fill="none" stroke="#382d1c" stroke-width="1" />
+  <path d="M 0 0 L 4 0 L 4 46 L 0 46 Z" fill="#f59e0b" />
+  <text x="20" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="15" font-weight="800" fill="#fbbf24" letter-spacing="0.3">
+    &#128301; Current Focus &amp; Research
   </text>
 </svg>
