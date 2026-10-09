@@ -8,13 +8,14 @@
 
 <br/>
 
-### ⚡ Featured Systems & Engineering Projects
+<img src="assets/sec-projects.svg" width="100%" alt="Featured Systems &amp; Engineering Projects" />
 
-#### ◈ [PARV v5.0 — Autonomous 3D Holographic AI Assistant](https://github.com/parvlabs)
-> **Autonomous desktop AI assistant and cyber visualizer with mid-air gesture control, multi-LLM cascade routing, computer-use automation, and a zero-trust execution sandbox.**
+<br/>
 
-[![Status: Private Repository](https://img.shields.io/badge/Status-Private_Repository-1c160c?style=flat-square&logo=lock&logoColor=fbbf24&labelColor=070605)](https://github.com/parvlabs)
-[![Stack](https://img.shields.io/badge/Stack-Python_3.11_•_PyQt6_•_Three.js_•_Gemini_•_OpenCV_•_SQLite-1c160c?style=flat-square&labelColor=070605&color=fbbf24)](https://github.com/parvlabs)
+<!-- Project 1: PARV v5.0 -->
+<a href="https://github.com/parvlabs">
+  <img src="assets/card-parv.svg" width="100%" alt="PARV v5.0 - Autonomous 3D Holographic AI Assistant" />
+</a>
 
 <details>
   <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
@@ -31,14 +32,12 @@
 
 </details>
 
----
+<br/>
 
-#### ◈ [CyberPath — AI Cybersecurity Assessment &amp; Mentorship Ecosystem (SIH26101)](https://github.com/parvlabs/CyberPath)
-> **Diagnostic cybersecurity education platform featuring competency mapping, generative AI threat simulations, and dynamic career track alignment built as an ultra-fast Vanilla JS SPA.**
-
-[![Repository](https://img.shields.io/badge/Repository-CyberPath-1c160c?style=flat-square&logo=github&logoColor=fbbf24&labelColor=070605)](https://github.com/parvlabs/CyberPath)
-[![Live Platform](https://img.shields.io/badge/Live_Platform-Preview_↗-1c160c?style=flat-square&logo=googlechrome&logoColor=fbbf24&labelColor=070605)](https://github.com/parvlabs/CyberPath#live-preview)
-[![Stack](https://img.shields.io/badge/Stack-JavaScript_ES6+_•_HTML5_Canvas_•_CSS3_•_Gemini_API_•_Firebase-1c160c?style=flat-square&labelColor=070605&color=fbbf24)](https://github.com/parvlabs/CyberPath)
+<!-- Project 2: CyberPath -->
+<a href="https://github.com/parvlabs/CyberPath">
+  <img src="assets/card-cyberpath.svg" width="100%" alt="CyberPath - AI Cybersecurity Assessment Ecosystem" />
+</a>
 
 <details>
   <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
@@ -53,14 +52,12 @@
 
 </details>
 
----
+<br/>
 
-#### ◈ [Mobile Self-Hosted Server](https://github.com/parvlabs/Mobile-Self-Hosted-Server)
-> **Lightweight self-hosted infrastructure turning an Android device into a private, remotely accessible personal server, telemetry monitor, and encrypted file-sharing hub.**
-
-[![Repository](https://img.shields.io/badge/Repository-Mobile--Server-1c160c?style=flat-square&logo=github&logoColor=fbbf24&labelColor=070605)](https://github.com/parvlabs/Mobile-Self-Hosted-Server)
-[![Documentation](https://img.shields.io/badge/Documentation-Setup_Guide_↗-1c160c?style=flat-square&logo=gitbook&logoColor=fbbf24&labelColor=070605)](https://github.com/parvlabs/Mobile-Self-Hosted-Server#setup)
-[![Stack](https://img.shields.io/badge/Stack-Android_•_Termux_•_Python_•_Flask_•_Tailscale_VPN-1c160c?style=flat-square&labelColor=070605&color=fbbf24)](https://github.com/parvlabs/Mobile-Self-Hosted-Server)
+<!-- Project 3: Mobile Server -->
+<a href="https://github.com/parvlabs/Mobile-Self-Hosted-Server">
+  <img src="assets/card-mobile.svg" width="100%" alt="Mobile Self-Hosted Server" />
+</a>
 
 <details>
   <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
@@ -74,18 +71,18 @@
 
 </details>
 
----
+<br/>
 
-### 📂 More Repositories
+<img src="assets/sec-repos.svg" width="100%" alt="More Repositories" />
 
 | Repository | Tech Stack | Engineering Scope |
 | :--- | :--- | :--- |
 | [**Advance-Student-Management-System**](https://github.com/parvlabs/Advance-Student-Management-System) | `Python` • `SQLite` • `Tkinter` | Transactional CRUD database engine with automated reporting and audit logs |
 | [**portfolio**](https://github.com/parvlabs/portfolio) | `HTML5` • `CSS3` • `JavaScript` | Personal engineering showcase with custom cyber aesthetics and interactive project index |
 
----
+<br/>
 
-### 🛠️ Technical Arsenal
+<img src="assets/sec-skills.svg" width="100%" alt="Technical Arsenal" />
 
 <div align="left">
   <picture>
@@ -95,17 +92,17 @@
   </picture>
 </div>
 
----
+<br/>
 
-### 🔭 Current Focus & Research
+<img src="assets/sec-focus.svg" width="100%" alt="Current Focus &amp; Research" />
 
 - 🛡️ **Penetration Testing:** Practical offensive security labs, vulnerability assessments, and network reconnaissance.
 - ⚡ **Backend & Scalability:** Low-latency Python/Node.js microservices with zero-trust token authentication.
 - 🧠 **Agentic AI Systems:** Autonomous multi-model reasoning cascades and deterministic execution frameworks.
 
----
+<br/>
 
-### 📊 Live Telemetry & GitHub Performance
+<img src="assets/sec-telemetry.svg" width="100%" alt="Live Telemetry &amp; Activity" />
 
 <!-- Activity Line Graph -->
 <div align="center">
@@ -143,9 +140,9 @@
   </picture>
 </div>
 
----
+<br/>
 
-### 📬 Direct Dispatch & Connect
+<img src="assets/sec-connect.svg" width="100%" alt="Direct Dispatch &amp; Connect" />
 
 <p align="center">
   <a href="mailto:ydvparveer@gmail.com">
