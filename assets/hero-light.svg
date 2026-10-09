@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="warm-light-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbfaf8" />
+      <stop offset="50%" stop-color="#f5f2eb" />
+      <stop offset="100%" stop-color="#ede8df" />
+    </linearGradient>
+    <linearGradient id="amber-glow-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d97706" />
+      <stop offset="50%" stop-color="#b45309" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+    <pattern id="light-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#d97706" stroke-width="0.5" stroke-opacity="0.08" />
+    </pattern>
+  </defs>
+
+  <!-- Base Canvas -->
+  <rect width="900" height="210" rx="10" fill="url(#warm-light-bg)" />
+  <rect width="900" height="210" rx="10" fill="url(#light-grid)" />
+  
+  <!-- Outer Frame & Top Amber Accent Line -->
+  <rect x="0.5" y="0.5" width="899" height="209" rx="9.5" fill="none" stroke="#e3ded5" stroke-width="1" />
+  <path d="M 0 0 L 900 0" stroke="url(#amber-glow-light)" stroke-width="3.5" rx="2" />
+
+  <!-- Monogram Brand Node -->
+  <g transform="translate(56, 55)">
+    <rect width="100" height="100" rx="18" fill="#ffffff" stroke="#d97706" stroke-width="1.5" stroke-opacity="0.8" />
+    <text x="50" y="61" font-family="'Fira Code', 'JetBrains Mono', monospace" font-size="36" font-weight="800" fill="#b45309" text-anchor="middle" dominant-baseline="central">P/</text>
+    <circle cx="50" cy="50" r="42" fill="none" stroke="#d97706" stroke-width="0.75" stroke-dasharray="4 6" stroke-opacity="0.4" />
+  </g>
+
+  <!-- Typography Hierarchy -->
+  <g transform="translate(182, 0)">
+    <!-- Terminal Prompt Pill -->
+    <g transform="translate(0, 48)">
+      <rect width="210" height="22" rx="6" fill="#fef3c7" stroke="#d97706" stroke-opacity="0.35" stroke-width="0.8" />
+      <text x="10" y="15" font-family="'Fira Code', monospace" font-size="11" font-weight="700" fill="#b45309" letter-spacing="1">
+        ✦ PARV LABS // SEC_CORE
+      </text>
+    </g>
+    
+    <!-- Primary Heading -->
+    <text x="0" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="34" font-weight="800" fill="#1c1917" letter-spacing="-0.6">
+      Parv <tspan font-weight="400" fill="#78716c" font-size="22">(@parvlabs)</tspan>
+    </text>
+    
+    <!-- Subtitle / Discipline -->
+    <text x="0" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="15" font-weight="500" fill="#57534e">
+      Backend Architecture <tspan fill="#d97706">•</tspan> Defensive Security <tspan fill="#d97706">•</tspan> Autonomous Systems
+    </text>
+  </g>
+
+  <!-- Right Telemetry Beacon -->
+  <g transform="translate(735, 68)">
+    <rect width="112" height="32" rx="8" fill="#fef3c7" stroke="#d97706" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="18" cy="16" r="4.5" fill="#d97706">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="32" y="20" font-family="'Fira Code', monospace" font-size="11" font-weight="700" fill="#b45309" letter-spacing="0.5">ONLINE</text>
+  </g>
+</svg>
