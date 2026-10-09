@@ -1,110 +1,78 @@
-<table>
-  <tr>
-    <td width="140" align="center" valign="middle" bgcolor="#0d0b08" style="border: 1px solid #382d1c; border-radius: 8px 0 0 8px; padding: 12px;">
-      <img src="assets/avatar.jpg" width="125" style="border-radius: 50%; border: 2px solid #f59e0b; display: block;" alt="Parv Avatar" />
-    </td>
-    <td valign="middle" bgcolor="#0d0b08" style="border: 1px solid #382d1c; border-radius: 0 8px 8px 0; padding: 18px 24px;">
-      <h2 style="color: #fbfaf8; margin: 0 0 4px 0;">Parv <span style="font-weight: 400; color: #fbbf24; font-size: 18px;">(@parvlabs)</span></h2>
-      <p style="color: #f59e0b; margin: 0 0 8px 0; font-size: 13px; font-weight: 600;">Backend Architecture • Defensive Security • Autonomous Systems</p>
-      <p style="color: #c5beb4; margin: 0; font-size: 14px; line-height: 1.6;">
-        Developer and security practitioner based in India specializing in <strong style="color: #fbfaf8;">backend infrastructure, offensive/defensive tooling, and autonomous agent systems</strong>. Focused on zero-trust application design, resilient server architecture, and applied penetration testing.
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-card-light.svg">
+    <img src="assets/header-card-dark.svg" width="100%" alt="Parv (@parvlabs)" />
+  </picture>
+</div>
 
----
+<br/>
 
 ### ⚡ Featured Systems & Engineering Projects
 
-<table>
-  <tr>
-    <td width="100%" bgcolor="#0d0b08" style="border: 1px solid #382d1c; border-radius: 8px; padding: 18px;">
-      <h3 style="color: #fbbf24; margin-top: 0;">◈ PARV v5.0 — Autonomous 3D Holographic AI Assistant</h3>
-      <p style="color: #c5beb4;">Autonomous desktop AI assistant and cyber visualizer with mid-air gesture control, multi-LLM cascade routing, computer-use automation, and a zero-trust execution sandbox.</p>
-      <p>
-        <code>Python 3.11</code> • <code>PyQt6 / QML</code> • <code>Three.js (WebGL)</code> • <code>Google Gemini / DeepSeek / OpenAI</code> • <code>MediaPipe / OpenCV</code> • <code>Faster-Whisper</code> • <code>Edge-TTS</code> • <code>SQLite</code>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Private%20Repository-1c160c?style=flat-square&logo=lock&logoColor=fbbf24&labelColor=070605" alt="Private Repository" /> &nbsp;•&nbsp; 
-        <em style="color: #c5beb4;">Proprietary core &amp; architecture</em>
-      </p>
-      <details>
-        <summary><strong style="color: #f59e0b; cursor: pointer;">System Architecture &amp; Key Highlights ▾</strong></summary>
-        <br/>
-        <ul style="color: #c5beb4;">
-          <li><strong style="color: #fbfaf8;">3D Holographic HUD:</strong> Audio-reactive visualizer and 3D disc interface rendered via Three.js WebGL inside PyQt6.</li>
-          <li><strong style="color: #fbfaf8;">Computer Vision Control:</strong> Real-time MediaPipe/OpenCV gesture tracking (pinch zoom, swipe rotate, open-palm wake).</li>
-          <li><strong style="color: #fbfaf8;">Voice Pipeline:</strong> Multilingual synthesis via <code>hi-IN-MadhurNeural</code> (Hinglish/English), clap-to-wake trigger, and Faster-Whisper local STT.</li>
-          <li><strong style="color: #fbfaf8;">Resilient AI Cascade:</strong> Multi-provider fallback (Gemini, DeepSeek, OpenAI) with automatic HTTP 429 quota failover.</li>
-          <li><strong style="color: #fbfaf8;">Computer-Use Automation:</strong> PyAutoGUI agent orchestrator for hands-free OS workflow automation.</li>
-          <li><strong style="color: #fbfaf8;">Cyber War-Room Visualizer:</strong> Interactive network scanning radar and real-time endpoint diagnostic visualizer.</li>
-          <li><strong style="color: #fbfaf8;">4-Tier Memory System:</strong> Long-term context persistence and document retrieval using SQLite-backed RAG.</li>
-          <li><strong style="color: #fbfaf8;">5-Layer Zero-Trust Hardening:</strong> Prompt-injection defense, file sandboxing, and runtime credential redaction.</li>
-        </ul>
-      </details>
-    </td>
-  </tr>
-</table>
+#### ◈ [PARV v5.0 — Autonomous 3D Holographic AI Assistant](https://github.com/parvlabs)
+> **Autonomous desktop AI assistant and cyber visualizer with mid-air gesture control, multi-LLM cascade routing, computer-use automation, and a zero-trust execution sandbox.**
 
-<br/>
+[![Status: Private Repository](https://img.shields.io/badge/Status-Private_Repository-1c160c?style=flat-square&logo=lock&logoColor=fbbf24&labelColor=070605)](https://github.com/parvlabs)
+[![Stack](https://img.shields.io/badge/Stack-Python_3.11_•_PyQt6_•_Three.js_•_Gemini_•_OpenCV_•_SQLite-1c160c?style=flat-square&labelColor=070605&color=fbbf24)](https://github.com/parvlabs)
 
-<table>
-  <tr>
-    <td width="100%" bgcolor="#0d0b08" style="border: 1px solid #382d1c; border-radius: 8px; padding: 18px;">
-      <h3 style="color: #fbbf24; margin-top: 0;">◈ CyberPath — AI Cybersecurity Assessment &amp; Mentorship Ecosystem (SIH26101)</h3>
-      <p style="color: #c5beb4;">Diagnostic cybersecurity education platform featuring competency mapping, generative AI threat simulations, and dynamic career track alignment built as an ultra-fast Vanilla JS SPA.</p>
-      <p>
-        <code>JavaScript (ES6+)</code> • <code>HTML5 Canvas / SVG</code> • <code>Modern CSS3</code> • <code>Google Gemini API</code> • <code>Firebase Auth &amp; Firestore</code>
-      </p>
-      <p>
-        <a href="https://github.com/parvlabs/CyberPath"><img src="https://img.shields.io/badge/Repository-CyberPath-1c160c?style=flat-square&logo=github&logoColor=fbbf24&labelColor=070605" alt="CyberPath Repo" /></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/parvlabs/CyberPath#live-preview"><img src="https://img.shields.io/badge/Live%20Platform-Preview%20↗-1c160c?style=flat-square&logo=googlechrome&logoColor=fbbf24&labelColor=070605" alt="Live Preview" /></a>
-      </p>
-      <details>
-        <summary><strong style="color: #f59e0b; cursor: pointer;">System Architecture &amp; Key Highlights ▾</strong></summary>
-        <br/>
-        <ul style="color: #c5beb4;">
-          <li><strong style="color: #fbfaf8;">Cyber DNA Radar:</strong> Evaluates 48 granular proficiencies across 8 core security domains on native HTML5 Canvas.</li>
-          <li><strong style="color: #fbfaf8;">Role Gap Engine:</strong> Benchmark algorithm matching developer competencies against 9 cybersecurity career tracks.</li>
-          <li><strong style="color: #fbfaf8;">Adaptive AI Assessments:</strong> Generative Gemini-driven MCQs with streak-based dynamic difficulty scaling.</li>
-          <li><strong style="color: #fbfaf8;">AI Career Mentor:</strong> Context-aware advisory system backed by a 5-model cascade failover for 99.9% uptime.</li>
-          <li><strong style="color: #fbfaf8;">Zero-Dependency SPA:</strong> 18 modular controllers, native SVG visualizations, and strict client-side data isolation.</li>
-          <li><strong style="color: #fbfaf8;">Offline-First Architecture:</strong> Full local storage functionality with optional Firestore cloud synchronization.</li>
-        </ul>
-      </details>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
+  <br/>
 
-<br/>
+* **3D Holographic HUD:** Audio-reactive visualizer and 3D disc interface rendered via Three.js WebGL inside PyQt6.
+* **Computer Vision Control:** Real-time MediaPipe/OpenCV gesture tracking (pinch zoom, swipe rotate, open-palm wake).
+* **Voice Pipeline:** Multilingual synthesis via `hi-IN-MadhurNeural` (Hinglish/English), clap-to-wake trigger, and Faster-Whisper local STT.
+* **Resilient AI Cascade:** Multi-provider fallback (Gemini, DeepSeek, OpenAI) with automatic HTTP 429 quota failover.
+* **Computer-Use Automation:** PyAutoGUI agent orchestrator for hands-free OS workflow automation.
+* **Cyber War-Room Visualizer:** Interactive network scanning radar and real-time endpoint diagnostic visualizer.
+* **4-Tier Memory System:** Long-term context persistence and document retrieval using SQLite-backed RAG.
+* **5-Layer Zero-Trust Hardening:** Prompt-injection defense, file sandboxing, and runtime credential redaction.
 
-<table>
-  <tr>
-    <td width="100%" bgcolor="#0d0b08" style="border: 1px solid #382d1c; border-radius: 8px; padding: 18px;">
-      <h3 style="color: #fbbf24; margin-top: 0;">◈ Mobile Self-Hosted Server</h3>
-      <p style="color: #c5beb4;">Lightweight self-hosted infrastructure turning an Android device into a private, remotely accessible personal server, telemetry monitor, and encrypted file-sharing hub.</p>
-      <p>
-        <code>Android</code> • <code>Termux</code> • <code>Python</code> • <code>Flask</code> • <code>REST API</code> • <code>Tailscale Mesh VPN</code> • <code>Linux / Bash</code>
-      </p>
-      <p>
-        <a href="https://github.com/parvlabs/Mobile-Self-Hosted-Server"><img src="https://img.shields.io/badge/Repository-Mobile--Server-1c160c?style=flat-square&logo=github&logoColor=fbbf24&labelColor=070605" alt="Mobile Server Repo" /></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/parvlabs/Mobile-Self-Hosted-Server#setup"><img src="https://img.shields.io/badge/Documentation-Setup%20Guide%20↗-1c160c?style=flat-square&logo=gitbook&logoColor=fbbf24&labelColor=070605" alt="Setup Guide" /></a>
-      </p>
-      <details>
-        <summary><strong style="color: #f59e0b; cursor: pointer;">System Architecture &amp; Key Highlights ▾</strong></summary>
-        <br/>
-        <ul style="color: #c5beb4;">
-          <li><strong style="color: #fbfaf8;">Real-Time Telemetry:</strong> Live dashboard tracking CPU load, RAM utilization, battery temperature, and network throughput.</li>
-          <li><strong style="color: #fbfaf8;">Secure Web File Manager:</strong> Browser-accessible file explorer with token-authenticated transfers.</li>
-          <li><strong style="color: #fbfaf8;">Hardened Defense:</strong> Path-traversal mitigation, strict input sanitization, and structured security logging.</li>
-          <li><strong style="color: #fbfaf8;">Zero-Port-Forwarding:</strong> Mesh VPN routing via Tailscale without exposing public ports.</li>
-          <li><strong style="color: #fbfaf8;">Daemon Autostart:</strong> Background health monitoring daemon with automatic restart on process crash.</li>
-        </ul>
-      </details>
-    </td>
-  </tr>
-</table>
+</details>
+
+---
+
+#### ◈ [CyberPath — AI Cybersecurity Assessment &amp; Mentorship Ecosystem (SIH26101)](https://github.com/parvlabs/CyberPath)
+> **Diagnostic cybersecurity education platform featuring competency mapping, generative AI threat simulations, and dynamic career track alignment built as an ultra-fast Vanilla JS SPA.**
+
+[![Repository](https://img.shields.io/badge/Repository-CyberPath-1c160c?style=flat-square&logo=github&logoColor=fbbf24&labelColor=070605)](https://github.com/parvlabs/CyberPath)
+[![Live Platform](https://img.shields.io/badge/Live_Platform-Preview_↗-1c160c?style=flat-square&logo=googlechrome&logoColor=fbbf24&labelColor=070605)](https://github.com/parvlabs/CyberPath#live-preview)
+[![Stack](https://img.shields.io/badge/Stack-JavaScript_ES6+_•_HTML5_Canvas_•_CSS3_•_Gemini_API_•_Firebase-1c160c?style=flat-square&labelColor=070605&color=fbbf24)](https://github.com/parvlabs/CyberPath)
+
+<details>
+  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
+  <br/>
+
+* **Cyber DNA Radar:** Evaluates 48 granular proficiencies across 8 core security domains on native HTML5 Canvas.
+* **Role Gap Engine:** Benchmark algorithm matching developer competencies against 9 cybersecurity career tracks.
+* **Adaptive AI Assessments:** Generative Gemini-driven MCQs with streak-based dynamic difficulty scaling.
+* **AI Career Mentor:** Context-aware advisory system backed by a 5-model cascade failover for 99.9% uptime.
+* **Zero-Dependency SPA:** 18 modular controllers, native SVG visualizations, and strict client-side data isolation.
+* **Offline-First Architecture:** Full local storage functionality with optional Firestore cloud synchronization.
+
+</details>
+
+---
+
+#### ◈ [Mobile Self-Hosted Server](https://github.com/parvlabs/Mobile-Self-Hosted-Server)
+> **Lightweight self-hosted infrastructure turning an Android device into a private, remotely accessible personal server, telemetry monitor, and encrypted file-sharing hub.**
+
+[![Repository](https://img.shields.io/badge/Repository-Mobile--Server-1c160c?style=flat-square&logo=github&logoColor=fbbf24&labelColor=070605)](https://github.com/parvlabs/Mobile-Self-Hosted-Server)
+[![Documentation](https://img.shields.io/badge/Documentation-Setup_Guide_↗-1c160c?style=flat-square&logo=gitbook&logoColor=fbbf24&labelColor=070605)](https://github.com/parvlabs/Mobile-Self-Hosted-Server#setup)
+[![Stack](https://img.shields.io/badge/Stack-Android_•_Termux_•_Python_•_Flask_•_Tailscale_VPN-1c160c?style=flat-square&labelColor=070605&color=fbbf24)](https://github.com/parvlabs/Mobile-Self-Hosted-Server)
+
+<details>
+  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
+  <br/>
+
+* **Real-Time Telemetry:** Live dashboard tracking CPU load, RAM utilization, battery temperature, and network throughput.
+* **Secure Web File Manager:** Browser-accessible file explorer with token-authenticated transfers.
+* **Hardened Defense:** Path-traversal mitigation, strict input sanitization, and structured security logging.
+* **Zero-Port-Forwarding:** Mesh VPN routing via Tailscale without exposing public ports.
+* **Daemon Autostart:** Background health monitoring daemon with automatic restart on process crash.
+
+</details>
 
 ---
 
@@ -113,11 +81,11 @@
 | Repository | Tech Stack | Engineering Scope |
 | :--- | :--- | :--- |
 | [**Advance-Student-Management-System**](https://github.com/parvlabs/Advance-Student-Management-System) | `Python` • `SQLite` • `Tkinter` | Transactional CRUD database engine with automated reporting and audit logs |
-| [**Portfolio**](https://github.com/parvlabs/portfolio) | `HTML5` • `CSS3` • `JavaScript` | Personal engineering showcase with custom cyber aesthetics and interactive project index |
+| [**portfolio**](https://github.com/parvlabs/portfolio) | `HTML5` • `CSS3` • `JavaScript` | Personal engineering showcase with custom cyber aesthetics and interactive project index |
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Arsenal
 
 <div align="left">
   <picture>
@@ -137,7 +105,7 @@
 
 ---
 
-### 📊 Telemetry & Contribution Graph
+### 📊 Live Telemetry & GitHub Performance
 
 <!-- Activity Line Graph -->
 <div align="center">
@@ -177,7 +145,7 @@
 
 ---
 
-### 📬 Connect & Direct Dispatch
+### 📬 Direct Dispatch & Connect
 
 <p align="center">
   <a href="mailto:ydvparveer@gmail.com">
