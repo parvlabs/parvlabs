@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" width="100%">
+  <defs>
+    <linearGradient id="bg-fc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0a07" />
+      <stop offset="50%" stop-color="#14100a" />
+      <stop offset="100%" stop-color="#070605" />
+    </linearGradient>
+  </defs>
+  <rect width="850" height="140" rx="8" fill="url(#bg-fc)" />
+  <rect x="0.5" y="0.5" width="849" height="139" rx="7.5" fill="none" stroke="#382d1c" stroke-width="1.2" />
+
+  <!-- Item 1 -->
+  <g transform="translate(25, 24)">
+    <text x="0" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#fbbf24">🎯 Offensive Security &amp; Pentesting:</text>
+    <text x="240" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#c5beb4">Vulnerability research, OWASP Top 10 analysis, and active network reconnaissance.</text>
+  </g>
+
+  <!-- Item 2 -->
+  <g transform="translate(25, 62)">
+    <text x="0" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#fbbf24">⚙️ Distributed Backend Engineering:</text>
+    <text x="252" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#c5beb4">Low-latency microservices, fault-tolerant cascades, and token-based zero-trust security.</text>
+  </g>
+
+  <!-- Item 3 -->
+  <g transform="translate(25, 100)">
+    <text x="0" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#fbbf24">🤖 Autonomous Agentic Workflows:</text>
+    <text x="248" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#c5beb4">Multi-model reasoning cascades, deterministic tool execution, and local sandboxing.</text>
+  </g>
+</svg>

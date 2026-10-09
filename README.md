@@ -75,14 +75,16 @@
 
 <img src="assets/sec-repos.svg" width="100%" alt="More Repositories" />
 
-| Repository | Tech Stack | Engineering Scope |
-| :--- | :--- | :--- |
-| [**Advance-Student-Management-System**](https://github.com/parvlabs/Advance-Student-Management-System) | `Python` • `SQLite` • `Tkinter` | Transactional CRUD database engine with automated reporting and audit logs |
-| [**portfolio**](https://github.com/parvlabs/portfolio) | `HTML5` • `CSS3` • `JavaScript` | Personal engineering showcase with custom cyber aesthetics and interactive project index |
+<img src="assets/card-more-repos.svg" width="100%" alt="Additional Repositories" />
 
+<br/>
 <br/>
 
 <img src="assets/sec-skills.svg" width="100%" alt="Technical Arsenal" />
+
+<img src="assets/card-skills.svg" width="100%" alt="Technical Skills Grid" />
+
+<br/>
 
 <div align="left">
   <picture>
@@ -96,10 +98,9 @@
 
 <img src="assets/sec-focus.svg" width="100%" alt="Current Focus &amp; Research" />
 
-- 🛡️ **Penetration Testing:** Practical offensive security labs, vulnerability assessments, and network reconnaissance.
-- ⚡ **Backend & Scalability:** Low-latency Python/Node.js microservices with zero-trust token authentication.
-- 🧠 **Agentic AI Systems:** Autonomous multi-model reasoning cascades and deterministic execution frameworks.
+<img src="assets/card-focus.svg" width="100%" alt="Current Focus and Research" />
 
+<br/>
 <br/>
 
 <img src="assets/sec-telemetry.svg" width="100%" alt="Live Telemetry &amp; Activity" />

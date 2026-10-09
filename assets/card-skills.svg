@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="100%">
+  <defs>
+    <linearGradient id="bg-sk" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0a07" />
+      <stop offset="50%" stop-color="#14100a" />
+      <stop offset="100%" stop-color="#070605" />
+    </linearGradient>
+  </defs>
+  <rect width="850" height="170" rx="8" fill="url(#bg-sk)" />
+  <rect x="0.5" y="0.5" width="849" height="169" rx="7.5" fill="none" stroke="#382d1c" stroke-width="1.2" />
+
+  <!-- Grid Categories -->
+  <!-- Col 1: Languages & Runtimes -->
+  <g transform="translate(25, 24)">
+    <text x="0" y="12" font-family="'Fira Code', monospace" font-size="12" font-weight="700" fill="#f59e0b" letter-spacing="0.5">LANGUAGES &amp; RUNTIMES</text>
+    <text x="0" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#fbfaf8">
+      Python 3.11, JavaScript (ES6+), Bash, HTML5, Modern CSS3
+    </text>
+  </g>
+
+  <!-- Col 2: Backend & Systems -->
+  <g transform="translate(25, 72)">
+    <text x="0" y="12" font-family="'Fira Code', monospace" font-size="12" font-weight="700" fill="#f59e0b" letter-spacing="0.5">BACKEND &amp; INFRASTRUCTURE</text>
+    <text x="0" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#fbfaf8">
+      Flask, RESTful APIs, Node.js, SQLite, Firebase Firestore, Linux / Termux, Docker
+    </text>
+  </g>
+
+  <!-- Col 3: AI, CV & Security -->
+  <g transform="translate(25, 120)">
+    <text x="0" y="12" font-family="'Fira Code', monospace" font-size="12" font-weight="700" fill="#f59e0b" letter-spacing="0.5">AI, VISION &amp; SECURITY TOOLING</text>
+    <text x="0" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#fbfaf8">
+      Google Gemini API, MediaPipe, OpenCV, Faster-Whisper, Tailscale Mesh VPN, Zero-Trust Architecture
+    </text>
+  </g>
+</svg>
