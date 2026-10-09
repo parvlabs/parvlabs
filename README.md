@@ -1,20 +1,11 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img src="assets/hero-dark.svg" width="100%" alt="Parv (@parvlabs) - Developer &amp; Cybersecurity Enthusiast" />
-  </picture>
-</div>
-
-<br/>
-
 <table>
   <tr>
-    <td width="130" align="center" valign="middle" bgcolor="#0d0b08" style="border: 1px solid #382d1c; border-radius: 8px 0 0 8px;">
-      <img src="assets/avatar.jpg" width="115" style="border-radius: 50%; border: 2px solid #f59e0b; display: block;" alt="Parv Avatar" />
+    <td width="140" align="center" valign="middle" bgcolor="#0d0b08" style="border: 1px solid #382d1c; border-radius: 8px 0 0 8px; padding: 12px;">
+      <img src="assets/avatar.jpg" width="125" style="border-radius: 50%; border: 2px solid #f59e0b; display: block;" alt="Parv Avatar" />
     </td>
-    <td valign="middle" bgcolor="#0d0b08" style="border: 1px solid #382d1c; border-radius: 0 8px 8px 0; padding: 16px;">
-      <h3 style="color: #fbbf24; margin: 0 0 6px 0;">✦ Identity &amp; Engineering Mission</h3>
+    <td valign="middle" bgcolor="#0d0b08" style="border: 1px solid #382d1c; border-radius: 0 8px 8px 0; padding: 18px 24px;">
+      <h2 style="color: #fbfaf8; margin: 0 0 4px 0;">Parv <span style="font-weight: 400; color: #fbbf24; font-size: 18px;">(@parvlabs)</span></h2>
+      <p style="color: #f59e0b; margin: 0 0 8px 0; font-size: 13px; font-weight: 600;">Backend Architecture • Defensive Security • Autonomous Systems</p>
       <p style="color: #c5beb4; margin: 0; font-size: 14px; line-height: 1.6;">
         Developer and security practitioner based in India specializing in <strong style="color: #fbfaf8;">backend infrastructure, offensive/defensive tooling, and autonomous agent systems</strong>. Focused on zero-trust application design, resilient server architecture, and applied penetration testing.
       </p>
