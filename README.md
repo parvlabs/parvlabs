@@ -1,12 +1,3 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-card-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-card-light.svg">
-    <img src="assets/header-card-dark.svg" width="100%" alt="Parv (@parvlabs)" />
-  </picture>
-</div>
-
-<br/>
 
 <img src="assets/sec-projects.svg" width="100%" alt="Featured Systems &amp; Engineering Projects" />
 
