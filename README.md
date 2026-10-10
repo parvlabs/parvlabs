@@ -1,4 +1,10 @@
 
+<div align="left">
+  <img src="assets/header-title.svg" width="100%" alt="PARV LABS - Cyber Developer" />
+</div>
+
+<br/>
+
 <img src="assets/sec-projects.svg" width="100%" alt="Featured Systems &amp; Engineering Projects" />
 
 <br/>
