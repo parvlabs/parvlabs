@@ -6,7 +6,7 @@
         <img src="assets/header-title.svg" width="100%" alt="PARV LABS - Cyber Developer" />
       </td>
       <td width="28%" valign="middle" align="center">
-        <img src="assets/hacker-glitch.gif" height="110" alt="Cyber Security Persona" style="border-radius: 8px; border: 1px solid #382d1c;" />
+        <img src="assets/hacker-glitch.gif" height="110" alt="Cyber Security Persona" style="border-radius: 8px; border: 1px solid #22364f;" />
       </td>
     </tr>
   </table>
@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/cyber-warroom.gif" width="100%" alt="Cyber War-Room Terminal" style="border-radius: 8px; border: 1px solid #382d1c;" />
+  <img src="assets/cyber-warroom.gif" width="100%" alt="Cyber War-Room Terminal" style="border-radius: 8px; border: 1px solid #22364f;" />
 </div>
 
 <br/>
@@ -30,7 +30,7 @@
 </a>
 
 <details>
-  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
+  <summary><strong>System Architecture &amp; Key Highlights â–¾</strong></summary>
   <br/>
 
 * **3D Holographic HUD:** Audio-reactive visualizer and 3D disc interface rendered via Three.js WebGL inside PyQt6.
@@ -52,7 +52,7 @@
 </a>
 
 <details>
-  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
+  <summary><strong>System Architecture &amp; Key Highlights â–¾</strong></summary>
   <br/>
 
 * **Cyber DNA Radar:** Evaluates 48 granular proficiencies across 8 core security domains on native HTML5 Canvas.
@@ -72,7 +72,7 @@
 </a>
 
 <details>
-  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
+  <summary><strong>System Architecture &amp; Key Highlights â–¾</strong></summary>
   <br/>
 
 * **Real-Time Telemetry:** Live dashboard tracking CPU load, RAM utilization, battery temperature, and network throughput.
@@ -99,7 +99,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/animated-skills.gif" alt="Animated Tech Stack" style="border-radius: 8px; border: 1px solid #382d1c; padding: 6px; background-color: #0d0b08;" />
+  <img src="assets/animated-skills.gif" alt="Animated Tech Stack" style="border-radius: 8px; border: 1px solid #22364f; padding: 6px; background-color: #0f1925;" />
 </div>
 
 <br/>
@@ -126,9 +126,9 @@
 <!-- Activity Line Graph -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=parvlabs&bg_color=070605&color=f59e0b&line=fbbf24&point=fbfaf8&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=parvlabs&bg_color=0f1925&color=38bdf8&line=7dd3fc&point=f0f9ff&area=true&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=parvlabs&bg_color=fbfaf8&color=d97706&line=b45309&point=1c1917&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=parvlabs&bg_color=070605&color=f59e0b&line=fbbf24&point=fbfaf8&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=parvlabs&bg_color=0f1925&color=38bdf8&line=7dd3fc&point=f0f9ff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
   </picture>
 </div>
 
@@ -137,14 +137,14 @@
 <!-- Stats & Top Languages Cards -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=parvlabs&show_icons=true&theme=dark&bg_color=070605&title_color=fbbf24&text_color=c5beb4&icon_color=f59e0b&border_color=382d1c&hide_border=false&include_all_commits=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=parvlabs&show_icons=true&theme=dark&bg_color=0f1925&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=22364f&hide_border=false&include_all_commits=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=parvlabs&show_icons=true&theme=default&bg_color=fbfaf8&title_color=b45309&text_color=57534e&icon_color=d97706&border_color=e3ded5&hide_border=false&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=parvlabs&show_icons=true&theme=dark&bg_color=070605&title_color=fbbf24&text_color=c5beb4&icon_color=f59e0b&border_color=382d1c&hide_border=false&include_all_commits=true" alt="Parv's GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=parvlabs&show_icons=true&theme=dark&bg_color=0f1925&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=22364f&hide_border=false&include_all_commits=true" alt="Parv's GitHub Stats" height="150" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=parvlabs&layout=compact&theme=dark&bg_color=070605&title_color=fbbf24&text_color=c5beb4&border_color=382d1c&hide_border=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=parvlabs&layout=compact&theme=dark&bg_color=0f1925&title_color=38bdf8&text_color=cbd5e1&border_color=22364f&hide_border=false">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=parvlabs&layout=compact&theme=default&bg_color=fbfaf8&title_color=b45309&text_color=57534e&border_color=e3ded5&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvlabs&layout=compact&theme=dark&bg_color=070605&title_color=fbbf24&text_color=c5beb4&border_color=382d1c&hide_border=false" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvlabs&layout=compact&theme=dark&bg_color=0f1925&title_color=38bdf8&text_color=cbd5e1&border_color=22364f&hide_border=false" alt="Top Languages" height="150" />
   </picture>
 </div>
 
@@ -165,18 +165,18 @@
 
 <p align="center">
   <a href="mailto:ydvparveer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ydvparveer%40gmail.com-1c160c?style=for-the-badge&logo=gmail&logoColor=fbbf24&labelColor=070605" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ydvparveer%40gmail.com-0f1925?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=09111c" alt="Email" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/parveer-ydv" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Parveer%20Yadav-1c160c?style=for-the-badge&logo=linkedin&logoColor=fbbf24&labelColor=070605" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Parveer%20Yadav-0f1925?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=09111c" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://instagram.com/raoparvv" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%40raoparvv-1c160c?style=for-the-badge&logo=instagram&logoColor=fbbf24&labelColor=070605" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%40raoparvv-0f1925?style=for-the-badge&logo=instagram&logoColor=38bdf8&labelColor=09111c" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://parvlabs.in" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-parvlabs.in-1c160c?style=for-the-badge&logo=googlechrome&logoColor=fbbf24&labelColor=070605" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-parvlabs.in-0f1925?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=09111c" alt="Portfolio" />
   </a>
 </p>

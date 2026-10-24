@@ -22,7 +22,7 @@ jobs:
           github_user_name: parvlabs
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f59e0b&color_dots=#070605,#451a03,#78350f,#d97706,#fbbf24
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#38bdf8&color_dots=#09111c,#0c2340,#0369a1,#0284c7,#38bdf8
 
       - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
