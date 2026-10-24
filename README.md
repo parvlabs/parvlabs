@@ -8,66 +8,31 @@
 
 <br/>
 
-<img src="assets/sec-projects.svg" width="100%" alt="Featured Systems &amp; Engineering Projects" />
+<img src="assets/sec-projects.svg" width="100%" alt="Featured Systems & Engineering Projects" />
 
 <br/>
 
-<!-- Project 1: PARV v5.0 -->
-<a href="https://github.com/parvlabs">
-  <img src="assets/card-parv.svg" width="100%" alt="PARV v5.0 - Autonomous 3D Holographic AI Assistant" />
-</a>
-
-<details>
-  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
-  <br/>
-
-* **3D Holographic HUD:** Audio-reactive visualizer and 3D disc interface rendered via Three.js WebGL inside PyQt6.
-* **Computer Vision Control:** Real-time MediaPipe/OpenCV gesture tracking (pinch zoom, swipe rotate, open-palm wake).
-* **Voice Pipeline:** Multilingual synthesis via hi-IN-MadhurNeural (Hinglish/English), clap-to-wake trigger, and Faster-Whisper local STT.
-* **Resilient AI Cascade:** Multi-provider fallback (Gemini, DeepSeek, OpenAI) with automatic HTTP 429 quota failover.
-* **Computer-Use Automation:** PyAutoGUI agent orchestrator for hands-free OS workflow automation.
-* **Cyber War-Room Visualizer:** Interactive network scanning radar and real-time endpoint diagnostic visualizer.
-* **4-Tier Memory System:** Long-term context persistence and document retrieval using SQLite-backed RAG.
-* **5-Layer Zero-Trust Hardening:** Prompt-injection defense, file sandboxing, and runtime credential redaction.
-
-</details>
+<div align="center">
+  <img src="assets/terminal-projects.gif" width="100%" alt="Featured Systems & Engineering Projects Terminal" style="border-radius: 8px; border: 1px solid #22364f;" />
+</div>
 
 <br/>
 
-<!-- Project 2: CyberPath -->
-<a href="https://github.com/parvlabs/CyberPath">
-  <img src="assets/card-cyberpath.svg" width="100%" alt="CyberPath - AI Cybersecurity Assessment Ecosystem" />
-</a>
-
-<details>
-  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
-  <br/>
-
-* **Cyber DNA Radar:** Evaluates 48 granular proficiencies across 8 core security domains on native HTML5 Canvas.
-* **Role Gap Engine:** Benchmark algorithm matching developer competencies against 9 cybersecurity career tracks.
-* **Adaptive AI Assessments:** Generative Gemini-driven MCQs with streak-based dynamic difficulty scaling.
-* **AI Career Mentor:** Context-aware advisory system backed by a 5-model cascade failover for 99.9% uptime.
-* **Zero-Dependency SPA:** 18 modular controllers, native SVG visualizations, and strict client-side data isolation.
-* **Offline-First Architecture:** Full local storage functionality with optional Firestore cloud synchronization.
-
-</details>
+<div align="center">
+  <a href="https://github.com/parvlabs"><strong>⚡ PARV v5.0 Holographic AI</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/parvlabs/CyberPath"><strong>🛡️ CyberPath AI Ecosystem</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/parvlabs/Mobile-Self-Hosted-Server"><strong>📱 Mobile Self-Hosted Server</strong></a>
+</div>
 
 <br/>
 
-<!-- Project 3: Mobile Server -->
-<a href="https://github.com/parvlabs/Mobile-Self-Hosted-Server">
-  <img src="assets/card-mobile.svg" width="100%" alt="Mobile Self-Hosted Server" />
-</a>
-
 <details>
-  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
+  <summary><strong>System Architecture & Key Highlights ▾</strong></summary>
   <br/>
 
-* **Real-Time Telemetry:** Live dashboard tracking CPU load, RAM utilization, battery temperature, and network throughput.
-* **Secure Web File Manager:** Browser-accessible file explorer with token-authenticated transfers.
-* **Hardened Defense:** Path-traversal mitigation, strict input sanitization, and structured security logging.
-* **Zero-Port-Forwarding:** Mesh VPN routing via Tailscale without exposing public ports.
-* **Daemon Autostart:** Background health monitoring daemon with automatic restart on process crash.
+* **PARV v5.0 (Autonomous 3D Holographic AI Assistant):** Audio-reactive visualizer and 3D disc interface rendered via Three.js WebGL inside PyQt6; real-time MediaPipe/OpenCV gesture tracking; hi-IN-MadhurNeural voice synthesis; multi-provider cascade (Gemini, DeepSeek, OpenAI); PyAutoGUI computer automation; 4-tier SQLite memory RAG; 5-layer zero-trust hardening.
+* **CyberPath (AI Cybersecurity Assessment Ecosystem):** Cyber DNA Radar evaluating 48 granular proficiencies across 8 core security domains; role gap engine matching 9 career tracks; generative dynamic MCQ scaling; 5-model cascade failover; zero-dependency SPA with client-side isolation.
+* **Mobile Self-Hosted Server (Hardened Android Micro-Server):** Live telemetry for CPU, RAM, battery temp, and bandwidth; secure token-authenticated web file manager; path-traversal mitigation; mesh VPN routing via Tailscale.
 
 </details>
 
