@@ -1,16 +1,4 @@
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="72%" valign="middle" align="left">
-        <img src="assets/header-title.svg" width="100%" alt="PARV LABS - Cyber Developer" />
-      </td>
-      <td width="28%" valign="middle" align="center">
-        <img src="assets/hacker-glitch.gif" height="110" alt="Cyber Security Persona" style="border-radius: 8px; border: 1px solid #22364f;" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="assets/header-card.svg" width="100%" alt="PARV LABS - Cyber Developer" />
 
 <br/>
 
@@ -30,7 +18,7 @@
 </a>
 
 <details>
-  <summary><strong>System Architecture &amp; Key Highlights â–¾</strong></summary>
+  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
   <br/>
 
 * **3D Holographic HUD:** Audio-reactive visualizer and 3D disc interface rendered via Three.js WebGL inside PyQt6.
@@ -52,7 +40,7 @@
 </a>
 
 <details>
-  <summary><strong>System Architecture &amp; Key Highlights â–¾</strong></summary>
+  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
   <br/>
 
 * **Cyber DNA Radar:** Evaluates 48 granular proficiencies across 8 core security domains on native HTML5 Canvas.
@@ -72,7 +60,7 @@
 </a>
 
 <details>
-  <summary><strong>System Architecture &amp; Key Highlights â–¾</strong></summary>
+  <summary><strong>System Architecture &amp; Key Highlights ▾</strong></summary>
   <br/>
 
 * **Real-Time Telemetry:** Live dashboard tracking CPU load, RAM utilization, battery temperature, and network throughput.
