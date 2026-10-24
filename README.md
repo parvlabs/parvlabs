@@ -1,6 +1,21 @@
 
-<div align="left">
-  <img src="assets/header-title.svg" width="100%" alt="PARV LABS - Cyber Developer" />
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="72%" valign="middle" align="left">
+        <img src="assets/header-title.svg" width="100%" alt="PARV LABS - Cyber Developer" />
+      </td>
+      <td width="28%" valign="middle" align="center">
+        <img src="assets/hacker-glitch.gif" height="110" alt="Cyber Security Persona" style="border-radius: 8px; border: 1px solid #382d1c;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/cyber-warroom.gif" width="100%" alt="Cyber War-Room Terminal" style="border-radius: 8px; border: 1px solid #382d1c;" />
 </div>
 
 <br/>
@@ -20,7 +35,7 @@
 
 * **3D Holographic HUD:** Audio-reactive visualizer and 3D disc interface rendered via Three.js WebGL inside PyQt6.
 * **Computer Vision Control:** Real-time MediaPipe/OpenCV gesture tracking (pinch zoom, swipe rotate, open-palm wake).
-* **Voice Pipeline:** Multilingual synthesis via `hi-IN-MadhurNeural` (Hinglish/English), clap-to-wake trigger, and Faster-Whisper local STT.
+* **Voice Pipeline:** Multilingual synthesis via hi-IN-MadhurNeural (Hinglish/English), clap-to-wake trigger, and Faster-Whisper local STT.
 * **Resilient AI Cascade:** Multi-provider fallback (Gemini, DeepSeek, OpenAI) with automatic HTTP 429 quota failover.
 * **Computer-Use Automation:** PyAutoGUI agent orchestrator for hands-free OS workflow automation.
 * **Cyber War-Room Visualizer:** Interactive network scanning radar and real-time endpoint diagnostic visualizer.
@@ -80,6 +95,12 @@
 <img src="assets/sec-skills.svg" width="100%" alt="Technical Arsenal" />
 
 <img src="assets/card-skills.svg" width="100%" alt="Technical Skills Grid" />
+
+<br/>
+
+<div align="center">
+  <img src="assets/animated-skills.gif" alt="Animated Tech Stack" style="border-radius: 8px; border: 1px solid #382d1c; padding: 6px; background-color: #0d0b08;" />
+</div>
 
 <br/>
 
