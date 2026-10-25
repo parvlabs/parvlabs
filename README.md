@@ -40,12 +40,6 @@
 
 <br/>
 
-<img src="assets/sec-repos.svg" width="100%" alt="More Repositories" />
-
-<img src="assets/card-more-repos.svg" width="100%" alt="Additional Repositories" />
-
-<br/>
-<br/>
 
 <img src="assets/sec-skills.svg" width="100%" alt="Technical Arsenal" />
 
