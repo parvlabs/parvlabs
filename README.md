@@ -40,7 +40,6 @@
 
 <br/>
 
-
 <img src="assets/sec-skills.svg" width="100%" alt="Technical Arsenal" />
 
 <img src="assets/card-skills.svg" width="100%" alt="Technical Skills Grid" />
@@ -53,16 +52,6 @@
 
 <br/>
 
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,bash,linux,git,docker&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,bash,linux,git,docker&theme=light">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,bash,linux,git,docker&theme=dark" alt="Skills: Python, JS, HTML5, CSS3, React, Node.js, Bash, Linux, Git, Docker" />
-  </picture>
-</div>
-
-<br/>
-
 <img src="assets/sec-focus.svg" width="100%" alt="Current Focus &amp; Research" />
 
 <img src="assets/card-focus.svg" width="100%" alt="Current Focus and Research" />
@@ -71,17 +60,6 @@
 <br/>
 
 <img src="assets/sec-telemetry.svg" width="100%" alt="Live Telemetry &amp; Activity" />
-
-<!-- Activity Line Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=parvlabs&bg_color=0f1925&color=38bdf8&line=7dd3fc&point=f0f9ff&area=true&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=parvlabs&bg_color=fbfaf8&color=d97706&line=b45309&point=1c1917&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=parvlabs&bg_color=0f1925&color=38bdf8&line=7dd3fc&point=f0f9ff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-  </picture>
-</div>
-
-<br/>
 
 <!-- Stats & Top Languages Cards -->
 <div align="center">
