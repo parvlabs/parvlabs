@@ -21,6 +21,7 @@
 <div align="center">
   <a href="https://github.com/parvlabs"><strong>⚡ PARV v5.0 Holographic AI</strong></a> &nbsp;&bull;&nbsp;
   <a href="https://github.com/parvlabs/CyberPath"><strong>🛡️ CyberPath AI Ecosystem</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/parvlabs/Parvmap"><strong>🎯 Parvmap Pentest Suite</strong></a> &nbsp;&bull;&nbsp;
   <a href="https://github.com/parvlabs/Mobile-Self-Hosted-Server"><strong>📱 Mobile Self-Hosted Server</strong></a>
 </div>
 
@@ -32,6 +33,7 @@
 
 * **PARV v5.0 (Autonomous 3D Holographic AI Assistant):** Audio-reactive visualizer and 3D disc interface rendered via Three.js WebGL inside PyQt6; real-time MediaPipe/OpenCV gesture tracking; hi-IN-MadhurNeural voice synthesis; multi-provider cascade (Gemini, DeepSeek, OpenAI); PyAutoGUI computer automation; 4-tier SQLite memory RAG; 5-layer zero-trust hardening.
 * **CyberPath (AI Cybersecurity Assessment Ecosystem):** Cyber DNA Radar evaluating 48 granular proficiencies across 8 core security domains; role gap engine matching 9 career tracks; generative dynamic MCQ scaling; 5-model cascade failover; zero-dependency SPA with client-side isolation.
+* **Parvmap (Automated Deep Penetration Testing Framework):** 32-phase automated reconnaissance and vulnerability scanning engine; intelligent port discovery, service enumeration, and CVE correlation; modular bash architecture with GPG-signed audit trails.
 * **Mobile Self-Hosted Server (Hardened Android Micro-Server):** Live telemetry for CPU, RAM, battery temp, and bandwidth; secure token-authenticated web file manager; path-traversal mitigation; mesh VPN routing via Tailscale.
 
 </details>
