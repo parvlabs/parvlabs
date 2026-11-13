@@ -3,8 +3,6 @@
 <br/>
 
 <div align="center">
-  <img src="assets/hacker-glitch.gif" width="115" alt="Parv Labs Cyber Operator" />
-  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=parvlabs&label=TERMINAL+ACCESS+COUNT&color=38bdf8&style=for-the-badge&label_color=09111c" alt="Terminal Access Count" />
   &nbsp;
   <img src="https://img.shields.io/badge/GPG%20Commits-Signed%20%26%20Verified-0f1925?style=for-the-badge&logo=git&logoColor=38bdf8&labelColor=09111c" alt="GPG Commits: Signed &amp; Verified" />
