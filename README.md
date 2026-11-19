@@ -73,25 +73,13 @@
 
 <img src="assets/sec-telemetry.svg" width="100%" alt="Live Telemetry &amp; Activity" />
 
-<!-- Stats, Streak & Top Languages Cards -->
+<!-- Stats, Streak & Top Languages Cards (Self-Hosted SVGs for 100% Uptime) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=parvlabs&show_icons=true&theme=dark&bg_color=0f1925&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=22364f&hide_border=false&include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=parvlabs&show_icons=true&theme=default&bg_color=fbfaf8&title_color=b45309&text_color=57534e&icon_color=d97706&border_color=e3ded5&hide_border=false&include_all_commits=true">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=parvlabs&show_icons=true&theme=dark&bg_color=0f1925&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=22364f&hide_border=false&include_all_commits=true" alt="Parv's GitHub Stats" height="150" />
-  </picture>
+  <img src="assets/stats.svg" alt="Parv's GitHub Stats" height="155" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=parvlabs&theme=dark&background=0f1925&border=22364f&stroke=22364f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=64748b">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=parvlabs&theme=light&background=fbfaf8&border=e3ded5&stroke=e3ded5&ring=b45309&fire=d97706&currStreakLabel=b45309&sideLabels=57534e&dates=a8a29e">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvlabs&theme=dark&background=0f1925&border=22364f&stroke=22364f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=64748b" alt="GitHub Streak Stats" height="150" />
-  </picture>
+  <img src="assets/streak.svg" alt="GitHub Streak Stats" height="155" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parvlabs&layout=compact&theme=dark&bg_color=0f1925&title_color=38bdf8&text_color=cbd5e1&border_color=22364f&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parvlabs&layout=compact&theme=default&bg_color=fbfaf8&title_color=b45309&text_color=57534e&border_color=e3ded5&hide_border=false">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parvlabs&layout=compact&theme=dark&bg_color=0f1925&title_color=38bdf8&text_color=cbd5e1&border_color=22364f&hide_border=false" alt="Top Languages" height="150" />
-  </picture>
+  <img src="assets/top-langs.svg" alt="Top Languages" height="155" />
 </div>
 
 <br/>
